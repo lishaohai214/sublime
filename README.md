@@ -21,3 +21,20 @@
         2. 如果已经设置过 快捷键，外边已经有 [] 就不需要加 [] ,如果是第一次设置 就需要 [] 不然不会生肖
 ```
 
+```s
+sublime text3 是一款 非常适合前端开发的 编辑器
+
+ctrl + n 新建文件
+ctrl + l 选中整行
+ctrl + shift + l 选中 已选中的所有行
+
+多行编辑
+	1. 按住鼠标中键，不放，拖动。
+	2. ctrl + 鼠标左键
+
+vscode ：
+	1. ctrl + 鼠标左键 拖动
+	2. alt + 鼠标左键
+
+```
+[学习地址](https://ke.qq.com/webcourse/index.html#course_id=242173&term_id=100285656&taid=1594077112152573&vid=i1421chgfox)
