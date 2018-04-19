@@ -38,3 +38,13 @@ vscode ：
 
 ```
 [学习地址](https://ke.qq.com/webcourse/index.html#course_id=242173&term_id=100285656&taid=1594077112152573&vid=i1421chgfox)
+
+#### 快速打开 sublime
+```s
+ 1. 找到安装路径。 就是 你的 sublime 的安装路径
+    比如我的是：
+    D:\Program Files\Sublime Text 3
+ 2. 把这个路径 放入到环境变量中  [自行百度]
+    
+ 3. cmd 中 输入 $ subl . 即可打开 sublime
+```
