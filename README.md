@@ -51,3 +51,15 @@ vscode ：
 
 #### 自动生成 自适应 viewport
 [ sublime text 3 插件：自定义Emmet语法规则以快速输出bootstrap组件](https://github.com/lshaohai/sublime-reindent.git)
+
+
+#### 快捷键 打开浏览器
+
+[Sublime Text设置快捷键让html文件在浏览器打开](https://jingyan.baidu.com/article/adc815137f9ae2f723bf73ff.html)
+
+#### 增加一个快捷键，删除当前标签，比如所在的标签
+
+```
+  ctrl + shift + ;
+    
+```
