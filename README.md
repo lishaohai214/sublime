@@ -48,3 +48,6 @@ vscode ：
     
  3. cmd 中 输入 $ subl . 即可打开 sublime
 ```
+
+#### 自动生成 自适应 viewport
+[ sublime text 3 插件：自定义Emmet语法规则以快速输出bootstrap组件](https://github.com/lshaohai/sublime-reindent.git)
