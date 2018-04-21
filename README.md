@@ -63,3 +63,12 @@ vscode ：
   ctrl + shift + ;
     
 ```
+
+#### sublime 创建 文件 && 文件夹 的方法
+```s
+    1. 在当前目录下创建一个文件
+        Ctrl + n   
+    2.在文件夹 src/components/  下 创建一个 about 文件夹 以及在 about 下创建一个 About.vue 文件
+        Ctrl + alt + n  ，然后输入 src/components/about/About.vue  
+
+```
