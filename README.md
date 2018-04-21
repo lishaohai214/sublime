@@ -72,3 +72,11 @@ vscode ：
         Ctrl + alt + n  ，然后输入 src/components/about/About.vue  
 
 ```
+#### 自动补全文件路径 插件
+
+```s
+    1. Ctrl + shift + p
+    2. 输入 install package  回车
+    3. 输入 autofilename 回车
+```
+[参考](https://jingyan.baidu.com/article/a3aad71af1da97b1fa009650.html)
